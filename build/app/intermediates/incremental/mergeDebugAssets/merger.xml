@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Herman\Documents\CS130\meta_nav\meta_nav\android\app\src\main\assets"/><source path="C:\Users\Herman\Documents\CS130\meta_nav\meta_nav\build\app\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Herman\Documents\CS130\meta_nav\meta_nav\android\app\src\debug\assets"/></dataSet></merger>
